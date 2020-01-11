@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dreamxuy.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-01-11T04:42:20.423Z</updated>
+    <title>dreamxuy&apos;s Blog</title>
+    <updated>2020-01-11T04:43:07.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dreamxuy.github.io/"/>
     <link rel="self" href="https://dreamxuy.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>NLP</subtitle>
     <logo>https://dreamxuy.github.io/images/avatar.png</logo>
     <icon>https://dreamxuy.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, dreamxuy&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://dreamxuy.github.io/post/hello-gridea</id>
