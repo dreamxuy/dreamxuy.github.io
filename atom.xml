@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dreamxuy.github.io/</id>
     <title>dreamxuy&apos;s Blog</title>
-    <updated>2020-08-15T08:14:02.624Z</updated>
+    <updated>2020-08-15T08:17:11.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dreamxuy.github.io/"/>
     <link rel="self" href="https://dreamxuy.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://dreamxuy.github.io/post/normalization">
         </link>
         <updated>2020-08-15T08:11:11.000Z</updated>
-        <content type="html"><![CDATA[<ul>
+        <summary type="html"><![CDATA[<p>深度学习Normalization学习</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>深度学习Normalization学习</p>
+<!-- more -->
+<ul>
 <li>内部协变量偏移(ICS)：在训练深度神经网络的时候，每一层的输入分布会发生变化，这主要是是受到上一层变化的影响。这种现象的存在会减慢训练的速度，对学习率、参数初始化提出一定的要求，而且对具有饱和非线性关系的模型训练十分困难。</li>
 </ul>
 <h3 id="batch-normalization">Batch Normalization</h3>
